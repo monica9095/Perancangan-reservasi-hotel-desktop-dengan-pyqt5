@@ -4,4 +4,3 @@ Aplikasi ini memungkinkan pengguna untuk memasukkan :
 - jumlah malam
 - serta memilih tipe kamar lalu akan menghitung total biaya secara otomatis.
 
-File "reservasi_hotelCLI.exe" tersedia di folder "dist" dan dapat dijalankan langsung. 
